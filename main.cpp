@@ -15,6 +15,9 @@
 #include "umplere_matrici.h"
 using namespace std;
 
-int main() {
+int main()
+{
+	v059_II4();
 	return 0;
+
 }
